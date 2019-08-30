@@ -1,0 +1,8 @@
+1. complexidade ciclomatica.
+2. entrar na pasta do projeto e digitar NPM INIT para transformar o projeto em node. 
+3. npm install express@4.16.3 --save-exact
+4. npm install nodemon@1.18.4 --save-dev --save-exact   
+5. npm install -g nodemon@1.18.4 --save-exact install (Globally Installation to use in prompt command on Windows)
+6. npm install marko@4.13.4-1 --save-exact
+7. npm install sqlite@4.0.2 --save-exact
+8. npm install body-parser@1.18.3 --save-exact
